@@ -1,0 +1,5 @@
+1.mlab for cloud db of MOngodb
+2.mlab is under atlas
+3.express mongoose bcryptjs jsonwebtoken passport passport-jwt validator body-parser
+4.connecting to the database by creating config folder.
+5.in the mongodb connect link give the password of the admin in database access and not login password.
