@@ -22,6 +22,8 @@ doesnt allow to go to the dashboard page withur loging to it (Switch, PrivateRou
 //Problem with tapping the dashboard or developser (map problem) we have to refresh. 
 //For map problem we have to to Object.keys(repos).map() instead of repos.map as repos is and object and not a array
 //change in ProfileGitHub, ProfileCreds
+//change in scripts of package.json for build- "build": "cd client && npm run build",
+change are made in my project not there in video
 
 email:padhy.jyotirmaya2000@gmail.com/john.dow@gmail.com
 password:123456
