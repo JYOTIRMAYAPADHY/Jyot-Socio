@@ -3,3 +3,37 @@
 3.express mongoose bcryptjs jsonwebtoken passport passport-jwt validator body-parser
 4.connecting to the database by creating config folder.
 5.in the mongodb connect link give the password of the admin in database access and not login password.
+6.make the routers for user...
+7.make the model or schema for user.
+8.use of gravater for avatar and then bcrypt for converting the pwd to hash.
+9.checking for the validation for user register and login page
+
+
+
+
+
+use noValidate in register.js of client for removing the html5. and connecting to the backend.
+In redux part we need to enable the  extension in the index.js file by window_Reduxdevtools.
+After that setting up the action for the redux and redirecing to the login page.
+Setting up the privateroute for the dashboard after making the dashboard
+doesnt allow to go to the dashboard page withur loging to it (Switch, PrivateRoute)
+//Problem with the checkbox for edu and exp 
+//Problem with profile,given profiles in video. In vid 61 Profiles.js.  Can change in the profileReducer.js
+//Problem with tapping the dashboard or developser (map problem) we have to refresh. 
+//For map problem we have to to Object.keys(repos).map() instead of repos.map as repos is and object and not a array
+//change in ProfileGitHub, ProfileCreds
+
+email:padhy.jyotirmaya2000@gmail.com/john.dow@gmail.com
+password:123456
+
+node server
+nodemon server
+npm run server
+npm run dev
+
+http://localhost:5000/api/profile/all-get
+http://localhost:5000/api/posts-get
+http://localhost:5000/api/profile/education/5e88217d10d0d96aa48e4625-del
+http://localhost:5000/api/posts/unlike/5e88ef81272a0d486c240365-post
+http://localhost:5000/api/users/login-post
+http://localhost:5000/api/posts/comment/5e88ef81272a0d486c240365/5e89bdb76aa6007ad44df5ae-del
